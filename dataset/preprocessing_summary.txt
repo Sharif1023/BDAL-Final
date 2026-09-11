@@ -1,0 +1,7 @@
+Amazon Fine Food Reviews - Preprocessing Summary
+==================================================
+Total CSV records : 568,454
+Valid records     : 568,452
+Invalid records   : 2
+Output file       : amazon_reviews.tsv
+Output size       : 299,117,356 bytes

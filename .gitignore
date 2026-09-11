@@ -1,0 +1,41 @@
+# ==========================================
+# Large Dataset Files
+# ==========================================
+
+dataset/Reviews.csv
+dataset/Reviews.csv.zip
+dataset/amazon_reviews.tsv
+
+
+# ==========================================
+# Java Compiled Files
+# ==========================================
+
+*.class
+mapreduce/best-reviewer/classes/
+mapreduce/rating-count/classes/
+mapreduce/product-helpfulness/classes/
+
+
+# ==========================================
+# Python Cache
+# ==========================================
+
+__pycache__/
+*.pyc
+
+
+# ==========================================
+# IDE Files
+# ==========================================
+
+.vscode/
+.idea/
+
+
+# ==========================================
+# Windows Files
+# ==========================================
+
+Thumbs.db
+Desktop.ini
